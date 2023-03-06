@@ -1,8 +1,12 @@
 # Денис Львов
 
-<div style="width: 20%; float:left">
-   #left content in here
-</div>
-<div style="width: 80%; float:right">
-   #right content in there
+<div class="textcols">
+	<div class="textcols-item">
+		Текст левой колонки
+		...
+	</div>
+	<div class="textcols-item">
+		Текст правой колонки
+		...
+	</div>
 </div>
