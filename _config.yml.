@@ -1,6 +1,6 @@
 lang: ru-RU
 encoding: utf-8
-# url: https://progmsk.github.io
+# url: 
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
