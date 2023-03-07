@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 $base-font-family: Corbel, Trebuchet MS, Helvetica, Trebuchet, sans-serif;
-$base-font-size:   18pt;
+$base-font-size:   24pt;
 $small-font-size:  $base-font-size * 0.8;
 $base-line-height: 1.2;
 
