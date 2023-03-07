@@ -1,6 +1,5 @@
 ---
-layout: default
-lang: ru-RU
+layout: article
 title: Московский клуб программистов
 excerpt: Тяжела и неказиста жизнь простого программиста
 ---
