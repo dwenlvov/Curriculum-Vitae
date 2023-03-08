@@ -3,19 +3,21 @@ layout: default
 ---
 
 <main>
-  <div class="container">
-    <div class="row">
-      <div class="col">
-      </div>
-      
-      <div class="col-md-auto">
-        {% include header.html %}
-        {{ content }}
-        {% include footer.html %}
-      </div>
-      
-      <div class="col">
+  <body class="d-flex flex-column min-vh-100">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+        </div>
+
+        <div class="col-md-auto">
+          {% include header.html %}
+          {{ content }}
+          {% include footer.html %}
+        </div>
+
+        <div class="col">
+        </div>
       </div>
     </div>
-  </div>
+  </body>
 </main>
