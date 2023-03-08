@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
-{% include header.html %}
-<body>
+
+<main>
   <div class="container">
     <div class="row">
       <div class="col">
       </div>
       
       <div class="col-md-auto">
+        {% include header.html %}
         {{ content }}
+        {% include footer.html %}
       </div>
       
       <div class="col">
       </div>
     </div>
   </div>
-  
-</body>
-{% include footer.html %}
-
+</main>
